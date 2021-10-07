@@ -18,7 +18,7 @@ baseurl: /uswds
 # - You can use an absolute link to an existing image.
 # - Or you can upload an image to the repository and use a relative link, starting with "../img/"
 # - Make sure your filename doesn't have any spaces.
-homepage-image: "../img/national-cancer-institute-L8tWZT4CcVQ-unsplash.jpg"
+homepage-image: "../img/marina-montoya-8_jNU_AGhio-unsplash.jpg"
 
 # Define content collections
 collections:
