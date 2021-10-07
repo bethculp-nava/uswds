@@ -1,10 +1,10 @@
 ### REQUIRED SETTINGS ###
 
 # Set a plain language title for the site.
-title: Covid-19 Booster Shot Screener
+title: Beth test
 
 # Write a short description for the site. This is used for "meta description."
-description: A screener for COVID-19 eligibility
+description: My test site
 
 # Enable for live hosting on GitHub Pages.
 # It should start with a slash (/) and then match the name of your repository exactly.
