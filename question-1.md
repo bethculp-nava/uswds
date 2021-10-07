@@ -2,14 +2,14 @@
 ### CONTENT ###
 
 # The question you want to ask
-text: Is your complaint about a healthcare provider, insurance provider, or data processing company?
+text: are you tired this morning?
 
 # The answer options and page name of destination associated with each answer
 # Add as many as you need.
 answers:
-  - text: "Yes, it is"
+  - text: "Yup"
     path: question-2
-  - text: "No, none of these apply"
+  - text: "Nope"
     path: q1-exit
 
 # Whether this question includes related resources (yes or no)
